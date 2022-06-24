@@ -19,7 +19,11 @@ public class UserProfile {
     private String genre;// the user's preferred genre of movie
     private String[] genres = {"Comedy", "Drama", "Action", "Mystery"};//available genres of movies
     
-    
+    /*
+    Hello, World!
+    Midterm is June 24, 2022
+    It's very HOT outside
+    */
     
     /**
      * A constructor that takes in the userID and the favourite genre
